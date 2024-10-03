@@ -1,0 +1,43 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/CP/XRLOR3HVYVHJA3N9PKGXZH.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/JC/9KV5LK682PABLZVAJVKCTB.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/B2/6IRZGCXC3PPXXUE3XJN6G7.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/82/77QR49T5U24IDXK2JN2NOH.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VF/OAYWRCF24ZFK86713NT6L2.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/W3/4UZK912QUB36WXOY534ROK.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/NX/LAU21A72XOWADKKW5FT1B5.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/5A/HLI11PP8FSXT03TWSOZEQG.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/0W/WY6EW1MLS7K93O9XOUH1NB.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/TK/8CFLA7EOZY3QYQZQFKR2XS.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/H0/3OXO5JGUABT7F7SGG77NCR.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/4A/JXWDEWKIOQOCYNI88HAAXX.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/0X/4H3F24GMH0JQAX4IPTSAPX.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/IS/KX0QL9N5SA9KEWHF3Y5OCZ.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/5X/55DK3WMFDUA00ECBVD9I3R.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/LU/6IPKPDXIKZPZQXZBSGACC5.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/SN/ISE96RZNFKF2ZTSMMD3B63.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/L0/KCVFX46JCDJGAX5F0KCFCN.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/E5/3VYGAF7UP2D02YM9V3L0YC.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/V5/EX5DD7D3JRCI1XPMU8GTOT.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/MK/LFS3GUD619MZRU6FX6N9XB.uasset",
+				"C:/Users/Yk/Documents/Unreal Projects/FirstPersonGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/3A/V168PSAO2NE6ME074KQAKB.uasset"
+			]
+		}
+	]
+}
